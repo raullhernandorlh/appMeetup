@@ -2,7 +2,7 @@ require('dotenv').config()
 const bcrypt = require('bcrypt');
 
 const password = process.env.SECRET;
-const email = 'ameetupapp@gmail.com';
+const email = process.env.EMAIL;
 const role = 'admin';
 
 let admin = {

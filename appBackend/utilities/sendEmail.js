@@ -5,12 +5,12 @@ const sendEmail = async(mail,name)=>{
     let testAccount = await nodemailer.createTestAccount();
 
     let transporter = nodemailer.createTransport({
-        host: 'smtp.ethereal.email',
-        port: 587,
-        secure: false, 
+        host: process.env.EMAIL_HOST,
+        port: process.env.EMAIL_PORT,
+        secure: process.env.SECURE, 
         auth: {
-            user: 'alejandra76@ethereal.email',
-            pass: '66wFdutCuVRaHf4ns6'
+            user: process.env.ETHEREAL_USER,
+            pass: process.env.ETHEREAL_USER_PASSWORD
         },
       });
 

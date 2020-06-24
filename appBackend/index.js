@@ -15,7 +15,7 @@ const app = express();
 
 const {voteMeetup,meetupRating} = require('./controllers/rating');
 const {createReservation,removeReservation,listReservations,detailReservation,payReservation} = require('./controllers/reservation');
-const { register, login, ratingOrganizer,sendConfirmationEmail } = require('./controllers/user')
+const { register, login,sendEmail } = require('./controllers/user')
 const { removeUser, listUsers, detailUser } = require('./controllers/admin')
 const { updateUserProfile,updateOrganizerProfile,detailProfile} = require ('./controllers/profile')
 const { addMeetup, removeMeetup, updateMeetup, detailMeetup, listMeetups,addComment,addUpdate,listOrganizerMeetups } = require('./controllers/meetup')
@@ -39,8 +39,9 @@ app.post('/user/login', login)
 
 app.delete('/user/:role/:id', isAuthenticated, isAdmin, removeUser)
 app.get('/user/', isAuthenticated, isAdmin, listUsers)
-app.get('/user/:id', isAuthenticated, isAdmin, detailUser)
-app.post('/user/:id',isAuthenticated,ratingOrganizer);
+app.get('/user/:id', isAuthenticated, isAdmin, detailUser);
+
+
 
 
 
@@ -62,7 +63,6 @@ app.get('/profile/:role/:id' ,isAuthenticated,isUserOfThisProfile,detailProfile)
 app.put('/profile/user/:id',isAuthenticated,isUserOfThisProfile,updateUserProfile);
 app.put('/profile/organizer/:id',isAuthenticated,isUserOfThisProfile,updateOrganizerProfile);
 
-app.get('/email',sendConfirmationEmail)
 
 // ENDPOINTS PARA RESERVAS
 

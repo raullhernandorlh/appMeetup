@@ -3,7 +3,7 @@
 const bd = require('../mock_bd/mock_bd_user');
 const validation = require('../validations/validations');
 const utilities = require('../utilities/hashPassword');
-const mailer = require('../utilities/sendEmail')
+const {sendEmail} = require('../utilities/sendEmail');
 const bcrypt = require('bcrypt');
 let jwt = require('jsonwebtoken');
 const moment = require("moment");
@@ -78,6 +78,8 @@ const register = async (req, res) => {
     
     logger.info("The validation of register fields was successful");
 
+    sendEmail(register.email, register.firstName)
+
     res.send(bd.users);
 
 }
@@ -142,31 +144,23 @@ const login = async (req, res) => {
     }
 }
 
-const sendConfirmationEmail = (req, res) => {
+// const sendConfirmationEmail = (req, res) => {
 
-    let mailOptions = {
-        from: process.env.EMAIL,
-        to: process.env.EMAIL_RECEIVER,
-        subject: 'Meetup - Registro Realizado con Exito',
-        text: "Su registro se ha realizado con exito"
-    }
+//     let mailOptions = {
+//         from: process.env.EMAIL,
+//         to: process.env.EMAIL_RECEIVER,
+//         subject: 'Meetup - Registro Realizado con Exito',
+//         text: "Su registro se ha realizado con exito"
+//     }
 
-    mailer.sendEmail(mailOptions)
+//     mailer.sendEmail(mailOptions)
 
-}
+// }
 
-const ratingOrganizer = (req,res) =>{
-
-
-    const {id} = req.params;
-
-// Necesito que me pasen el id del organizador 
-}
 
 
 module.exports = {
     register,
     login,
-    sendConfirmationEmail,
-    ratingOrganizer,
+    sendEmail
 }

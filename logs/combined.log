@@ -1,0 +1,1060 @@
+{"message":"Running server in port 8000","level":"info","service":"user-service"}
+{"message":"The user 2 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 2 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 2 has been created","level":"info","service":"user-service"}
+{"message":"The user NaN has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile NaN has been created","level":"info","service":"user-service"}
+{"message":"The user 2 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 3 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 2 has been created","level":"info","service":"user-service"}
+{"message":"The user profile 2 has been created","level":"info","service":"user-service"}
+{"message":"User 2 has been deleted","level":"info","service":"user-service"}
+{"message":"User Profile$ {id} has been deleted","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 2 has been created","level":"info","service":"user-service"}
+{"message":"The user profile 2 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 2 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 2 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 2 has been created","level":"info","service":"user-service"}
+{"message":"The user profile 2 has been created","level":"info","service":"user-service"}
+{"message":"The user 3 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 3 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 3 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 3 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 2 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 2 has been created","level":"info","service":"user-service"}
+{"message":"The user 3 has been created","level":"info","service":"user-service"}
+{"message":"The user profile 3 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 2 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 2 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 1 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The update has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The update has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The update has been created","level":"info","service":"user-service"}
+{"message":"The update has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The update has been created","level":"info","service":"user-service"}
+{"message":"The update has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The comment has been created","level":"info","service":"user-service"}
+{"message":"The update has been created","level":"info","service":"user-service"}
+{"message":"The update has been created","level":"info","service":"user-service"}
+{"message":"The meetup 3 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The meetup 1 has been removed","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The meetup 1 has been updated","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The meetup 1 has been updated","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The meetup 1 has been updated","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The userProfile [object Object] has been updated","level":"info","service":"user-service"}
+{"message":"The userProfile [object Object] has been updated","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The userProfile [object Object] has been updated","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The userProfile [object Object] has been updated","level":"info","service":"user-service"}
+{"message":"The userProfile [object Object] has been updated","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The userProfile [object Object] has been updated","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The userProfile 1 has been updated","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The userProfile 1 has been updated","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The meetup 3 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The meetup 3 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The meetup 3 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 2  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+{"message":"The meetup 2 the meetup has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The reservation 1  has been created","level":"info","service":"user-service"}
+info: Server Running
+info: Server Running
+info: Server Running
+{"message":"The user 1 has been created","level":"info","service":"user-service"}
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+{"message":"The organizer profile 1 has been created","level":"info","service":"user-service"}
+info: The meetup 2 the meetup has been created
+{"message":"The validation of register fields was successful","level":"info","service":"user-service"}
+info: Server Running
+info: Server Running
+info: Server Running
+info: Server Running
+info: Server Running
+info: Server Running
+info: Server Running
+info: Server Running
+info: Server Running
+info: Server Running
+info: Server Running
+info: Server Running
+info: Server Running
+[2020-06-18T06:50:51.257Z] info Server Running
